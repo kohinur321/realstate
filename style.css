@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.wrapper{
+    width: 100%;
+    height: 3024px;
+}
+
+.carousel-item img{
+   height: 600px;
+   width: 100%;
+}
+
+.find{
+    text-align: center;
+  font-size: 30px;
+  font-weight: 600;
+  text-transform: uppercase;
+  font-family: fantasy;
+  border-bottom: 2px solid black;
+}
+
+.find-area{
+    height: 200px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.project{
+  text-align: center;
+  font-size: 30px;
+  font-weight: 600;
+  text-transform: uppercase;
+  font-family: fantasy;
+  
+}
+
+.view more btn{
+    position: absolute;
+    left: 50%;
+    margin-top: 10px;
+}
+
+.client-img{
+    width: 33%;
+    height: 80px;
+}
